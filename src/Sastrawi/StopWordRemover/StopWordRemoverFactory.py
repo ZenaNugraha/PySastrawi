@@ -26,7 +26,7 @@ class StopWordRemoverFactory(object):
             'berkenaan','berlainan','berlalu','berlangsung','berlebihan','bermacam','bermacam-macam',
             'bermaksud','bermula','bersama','bersama-sama','bersiap','bersiap-siap','bertanya',
             'bertanya-tanya','berturut','berturut-turut','bertutur','berujar','berupa','besar',
-            'betul','betulkah','biasa','biasanya','bila','bilakah','bisa','bisakah','boleh','bolehkah',
+            'betul','betulkah','bidang','biasa','biasanya','bila','bilakah','bisa','bisakah','boleh','bolehkah',
             'bolehlah','buat','bukan','bukankah','bukanlah','bukannya','bulan','bung','c','cara',
             'caranya','cukup','cukupkah','cukuplah','cuma','d','dahulu','dalam','dan','dapat','dari',
             'daripada','datang','dekat','demi','demikian','demikianlah','dengan','depan','di','dia',
